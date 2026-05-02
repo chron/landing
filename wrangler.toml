@@ -1,0 +1,10 @@
+name = "prestidge-root"
+compatibility_date = "2026-05-02"
+workers_dev = false
+
+[assets]
+directory = "./public"
+
+[[routes]]
+pattern = "prestidge.dev"
+custom_domain = true
