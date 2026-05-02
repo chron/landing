@@ -1,11 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" fill="oklch(17% 0.005 95)"/>
-  <text
-    x="30"
-    y="51"
-    fill="oklch(93.6% 0.015 95)"
-    font-family="Impact, Haettenschweiler, 'Arial Black', sans-serif"
-    font-size="58"
-    font-weight="900"
-    text-anchor="middle">P</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="P">
+  <rect width="64" height="64" fill="#11110f"/>
+  <path
+    fill="#efede4"
+    fill-rule="evenodd"
+    d="M9 8h30c11.3 0 18 6.7 18 17.4S50.3 43 39 43H26v13H9V8Zm17 14v8h11.3c2.6 0 4.4-1.6 4.4-4s-1.8-4-4.4-4H26Z"
+    clip-rule="evenodd"/>
 </svg>
