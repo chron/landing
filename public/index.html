@@ -6,12 +6,14 @@
     <meta name="color-scheme" content="light">
     <title>PAUL</title>
     <style>
+      @import url("https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap");
+
       :root {
         --ink: oklch(17% 0.005 95);
         --paper: oklch(93.6% 0.015 95);
         color: var(--ink);
         background: var(--paper);
-        font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
+        font-family: "Dela Gothic One", Impact, Haettenschweiler, "Arial Black", sans-serif;
       }
 
       * {
@@ -29,17 +31,14 @@
         margin: 0;
         place-items: center;
         overflow: hidden;
-        background:
-          linear-gradient(var(--ink) 0 0) 0 0 / 100% 12px no-repeat,
-          linear-gradient(var(--paper) 0 0) 0 100% / 100% 12px no-repeat,
-          linear-gradient(174deg, var(--paper) 0 50%, var(--ink) 50% 100%);
+        background: linear-gradient(174deg, var(--paper) 0 50%, var(--ink) 50% 100%);
       }
 
       h1 {
         margin: 0;
         padding: 0 0.1em;
         color: var(--paper);
-        font-size: clamp(7rem, 31vw, 22rem);
+        font-size: clamp(6rem, 26vw, 18rem);
         font-weight: 900;
         letter-spacing: 0;
         line-height: 0.78;
