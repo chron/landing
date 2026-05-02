@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="oklch(17% 0.005 95)"/>
+  <text
+    x="30"
+    y="51"
+    fill="oklch(93.6% 0.015 95)"
+    font-family="Impact, Haettenschweiler, 'Arial Black', sans-serif"
+    font-size="58"
+    font-weight="900"
+    text-anchor="middle">P</text>
+</svg>
